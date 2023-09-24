@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "9545b84c4e0135bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "438bc864ed3846dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fda0356da13ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sol does linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516357888f4294fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6652d95b7bcdfaf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42fe7295d128ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d40a5c672995dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52bb3dac39e5e491",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ec272d3d46ba5ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a43753b6c774d5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a54a10b03d441fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1d03b7fc5fd18e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sol does linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8961c990dbe6c4bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sol does linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4bda78345a2136f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "848945137b72825a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sol does linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13d40a5c672995dd",
+  "lastOpenFiles": [
+    "CHRISTITUSZ.md",
+    "~syncthing~CHRISTITUSZ.md.tmp",
+    "This d.md",
+    "~syncthing~This d.md.tmp",
+    "Ukrainian words I need to Learn..md",
+    "Sol does linux.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Spanish Words I need to learn ..md",
+    "Danish Words.md",
+    "Cheet sheet.md"
+  ]
+}
