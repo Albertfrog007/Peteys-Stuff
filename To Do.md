@@ -1,0 +1,2 @@
+So another day wasted not writing any note thanks to mobile Obsidian  which I have now deleted from my phone and replace with zettel which works out of the box..
+		On here I will install qownNotes see if it is an improvement on this app. A shame it hasn't got a mobile version, from what  I have seen QownNotes is the ideal ready to use solution. 
